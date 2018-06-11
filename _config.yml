@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 徐代龙的技术专栏
-brief-intro: Android and Python Coder
+title: 中國書法 Callig CN
+brief-intro: 分享書法學習心得
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://643435675.github.io" # the base hostname & protocol for your site
+url: "https://www.callig.cn" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -23,7 +23,7 @@ zhihu_username: hll643435675
 linkedIn_username: gaohaoyang
 dribbble_username:
 
-description_footer: 来自徐代龙的个人专栏！
+description_footer: 分享書法學習心得！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
